@@ -1,1 +1,3 @@
-# virtual-herbal-garden
+# Herbal-Garden
+### FLOW CHART
+![flowchart](resources/flowchart.png)
